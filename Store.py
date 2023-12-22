@@ -1,3 +1,4 @@
+#course information is stored in separate files
 class course:
     def __init__(self):
         self.couse_code = {}
